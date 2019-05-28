@@ -6,5 +6,6 @@ In first step, it takes input video stream then detect the face from the video f
 Then Face Landmark is mark and save 68 landmark point of face.
 The moving least square method is used to deform the face feature in that they take the input as video frame and landmark point and they change the position of landmark point so the face feature are reshaped and generate the output video stream.
 The paper realted this implememntation and research is develop that title " A Survey on Face beautification Techniques without Cosmetic surgery"
+you have to run shortcut.py file for full code exxcute : command : python shortcut.py
 
 
